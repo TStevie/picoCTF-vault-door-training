@@ -1,4 +1,4 @@
-# PicoCTF Vault-Door-Training
+# PicoCTF Gym Vault-Door-Training
 This is an easy level challenge from picoCTF. I wanted to document my studies regardless of difficulty so that I can hopefully help those new to the field trying to improve their skills.
 
 ## What's the Goal?
